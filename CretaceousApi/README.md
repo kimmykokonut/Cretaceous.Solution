@@ -1,0 +1,1 @@
+When creating your README, don't forget to instruct users on how to create and populate the appsettings.json file!
